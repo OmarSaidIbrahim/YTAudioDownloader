@@ -1,4 +1,7 @@
 # YTAudioDownloader
+
+ATTENTION: The following repository is based on the below libraries. Currently, the node-ytdl-core library is having some problems, due to youtube constantly changing their system, and consequently the current version of this repository does not work. Waiting for further updates.
+
 This is a mobile application that takes a youtube link and extrapolate the audio into a generated mp3 file.
 
 The mobile application uses the library react-native-ytdl by ytdl-js, that can be found at the following link: "https://github.com/ytdl-js/react-native-ytdl".
